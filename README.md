@@ -7,6 +7,7 @@ This project was built as part of the Alura course **JavaScript: classes and inh
 See the application in action at: [Dev-Dragons](https://dev-dragons-chi.vercel.app/)
 
 ## 🖼️ Preview
+
 ![Dev-Dragons Preview](./src/assets/img/preview.png)
 
 ## 🔨 Project Features
